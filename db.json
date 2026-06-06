@@ -1,0 +1,2576 @@
+{
+  "recipients": [
+    {
+      "id": "wmsze5ooo",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "cmtrade@iob.com.sg",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.622Z"
+    },
+    {
+      "id": "1cc7ay4ua",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "iobtrade1@iob.com.sg",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.624Z"
+    },
+    {
+      "id": "ohx7e5nj8",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "chiefexecutive@iob.com.sg",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.624Z"
+    },
+    {
+      "id": "hbw0xgjib",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "relationshipmgr@iob.com.sg",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.624Z"
+    },
+    {
+      "id": "z8ddngy5l",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "smcredit@iob.com.sg",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.624Z"
+    },
+    {
+      "id": "l2fpn6oaq",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "cmcredit@iob.com.sg",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.624Z"
+    },
+    {
+      "id": "n4n8gkcsi",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "hiteshwarrajbongshi1@iob.bank.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.624Z"
+    },
+    {
+      "id": "98jsl2b3p",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "smtrade@iob.com.sg",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.624Z"
+    },
+    {
+      "id": "3zb12inoe",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "tradetops@iob.com.sg",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.624Z"
+    },
+    {
+      "id": "3bmpixi5r",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "jeetendrakumarpanda@iobnet.co.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.624Z"
+    },
+    {
+      "id": "ug7cx230e",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "iobtrade@iob.com.sg",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.624Z"
+    },
+    {
+      "id": "obohvuxsi",
+      "name": "Indian Overseas Bank Singapore, Hiteshwar Raj Bongshi",
+      "email": "iobcredit@iob.com.sg",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.624Z"
+    },
+    {
+      "id": "0j0xwkcvf",
+      "name": "Indian Overseas Bank Bangkok, Pankaj Kumar",
+      "email": "intl@iob.co.th",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Bangkok"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "wsed2sdby",
+      "name": "Indian Overseas Bank Bangkok, Pankaj Kumar",
+      "email": "agm@iob.co.th",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Bangkok"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "9pyxwdhoh",
+      "name": "Indian Overseas Bank Bangkok, Pankaj Kumar",
+      "email": "adv@iob.co.th",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Bangkok"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "gghz8qm42",
+      "name": "Indian Overseas Bank Colombo, IOB Colombo",
+      "email": "colomboch@iob.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "vw9g0g7s6",
+      "name": "Indian Overseas Bank Colombo, IOB Colombo",
+      "email": "supercolombo@iob.bank.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "zta2nqhbp",
+      "name": "Indian Overseas Bank Colombo, IOB Colombo",
+      "email": "iob-colombo@iob.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "irpd0kpte",
+      "name": "Indian Overseas Bank Colombo, IOB Colombo",
+      "email": "govindsathish@iob.bank.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "xhoh3ddon",
+      "name": "Indian Overseas Bank Colombo, IOB Colombo",
+      "email": "govindsathish@iob.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "gpqseqtmr",
+      "name": "Indian Overseas Bank Colombo, IOB Colombo",
+      "email": "tshivaranjani@iob.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "klnc3h2iq",
+      "name": "Indian Overseas Bank Colombo, IOB Colombo",
+      "email": "krishnanmanoshanthan@iob.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "9cbzyhw1p",
+      "name": "Indian Overseas Bank Colombo, IOB Colombo",
+      "email": "rihan@iob.bank.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "z44zuyo3z",
+      "name": "Indian Overseas Bank Colombo, IOB Colombo",
+      "email": "hashinijayawardene@iob.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "zyv16tzsf",
+      "name": "Indian Overseas Bank Colombo, IOB Colombo",
+      "email": "vijayalakshmip@iobnet.co.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "oyyxzt0y4",
+      "name": "Indian Overseas Bank Hong Kong, D Santosh Kumar",
+      "email": "iobhk.trade@iob.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "l2nc3xifp",
+      "name": "Indian Overseas Bank Hong Kong, D Santosh Kumar",
+      "email": "iobtrade@netvigator.com",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "gqea7drsv",
+      "name": "Indian Overseas Bank Hong Kong, D Santosh Kumar",
+      "email": "iobhk.credit@iob.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "mlh04mcfl",
+      "name": "Indian Overseas Bank Hong Kong, D Santosh Kumar",
+      "email": "ce@iobhongkong.com",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "gow99t5fl",
+      "name": "Indian Overseas Bank Gift City, Got Permission to setup",
+      "email": "giftcity@iobnet.co.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "w5d2l8lwh",
+      "name": "Indian Overseas Bank Gift City, Got Permission to setup",
+      "email": "ibugift@iobnet.co.in",
+      "company": "Indian Overseas Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "glfw2pn7d",
+      "name": "Indian Bank Gift City, Jayesh",
+      "email": "giftcity@indianbank.co.in",
+      "company": "Indian Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "2vh3raah8",
+      "name": "Indian Bank Gift City, Jayesh",
+      "email": "jayeshprakash.samnani@indianbank.bank.in",
+      "company": "Indian Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "zenc3y2ei",
+      "name": "Indian Bank Gift City, Jayesh",
+      "email": "cmdsec@indianbank.co.in",
+      "company": "Indian Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "jzwxzvkku",
+      "name": "Indian Bank Gift City, Jayesh",
+      "email": "lcbkolkata@indianbank.bank.in",
+      "company": "Indian Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "7sq4lhhlw",
+      "name": "Indian Bank Singapore, Vijay Dwaivedi",
+      "email": "dceo@indianbank.sg",
+      "company": "Indian Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "y3op03ekj",
+      "name": "Indian Bank Singapore, Vijay Dwaivedi",
+      "email": "credit@indianbank.sg",
+      "company": "Indian Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "op3aoyurf",
+      "name": "Indian Bank Singapore, Vijay Dwaivedi",
+      "email": "tf@indianbank.sg",
+      "company": "Indian Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "0xqlzlz0g",
+      "name": "Indian Bank Colombo, Gautam Kumar",
+      "email": "gautam.kumar@indianbank.co.in",
+      "company": "Indian Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "13t7j2xzt",
+      "name": "Indian Bank Colombo, Gautam Kumar",
+      "email": "colombo@indianbank.co.in",
+      "company": "Indian Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "m21q0735a",
+      "name": "Indian Bank Colombo, Gautam Kumar",
+      "email": "indianbk@sltnet.lk",
+      "company": "Indian Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "q5pxd4xww",
+      "name": "Indian Bank Colombo, Gautam Kumar",
+      "email": "cmdsec@indian-bank.com",
+      "company": "Indian Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "wu86nnuvl",
+      "name": "Indian Bank Colombo, Gautam Kumar",
+      "email": "creditmonitoring@indianbank.co.in",
+      "company": "Indian Bank",
+      "tags": [
+        "Colombo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "paeabtcnx",
+      "name": "Bank of India San Francisco, Kaushal Verma",
+      "email": "boi.sfa@bankofindia.co.in",
+      "company": "Bank of India",
+      "tags": [
+        "San Francisco"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "30tpc1n5h",
+      "name": "Bank of India San Francisco, Kaushal Verma",
+      "email": "boi.sfa@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "San Francisco"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "kvi5j96go",
+      "name": "Bank of India Hong Kong, Saurabh kumar Singh",
+      "email": "boihk.tf@bankofindia.co.in",
+      "company": "Bank of India",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "nw1kdr1rp",
+      "name": "Bank of India Hong Kong, Saurabh kumar Singh",
+      "email": "boihk.tf@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "3b05s9gdy",
+      "name": "Bank of India Antwerp, Ashish Kalia",
+      "email": "bankofindiaantwerp@skynet.be",
+      "company": "Bank of India",
+      "tags": [
+        "Antwerp"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "ph46dsutx",
+      "name": "Bank of India Antwerp, Ashish Kalia",
+      "email": "boi.antwerp@bankofindia.co.in",
+      "company": "Bank of India",
+      "tags": [
+        "Antwerp"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "mmhrkismy",
+      "name": "Bank of India Tokyo, Sujit Kumar Ghosh",
+      "email": "boitokjap@gol.com",
+      "company": "Bank of India",
+      "tags": [
+        "Tokyo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "5oak2hw81",
+      "name": "Bank of India Tokyo, Sujit Kumar Ghosh",
+      "email": "tradefinance.tokyo@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "Tokyo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "mdq0kdpw6",
+      "name": "Bank of India Tokyo, Sujit Kumar Ghosh",
+      "email": "credit.tokyo@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "Tokyo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "x9lrueud5",
+      "name": "Bank of India Tokyo, Sujit Kumar Ghosh",
+      "email": "boi.tokyo@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "Tokyo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "qzuty6wqd",
+      "name": "Bank of India Tokyo, Sujit Kumar Ghosh",
+      "email": "accounts.tokyo@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "Tokyo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "ivygogmg5",
+      "name": "Bank of India Singapore, Somendra Singh",
+      "email": "tfimp.sg@bankofindia.co.in",
+      "company": "Bank of India",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "h9sojtmoe",
+      "name": "Bank of India Singapore, Somendra Singh",
+      "email": "credit1.sg@bankofindia.co.in",
+      "company": "Bank of India",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "sq6hxg55l",
+      "name": "Bank of India Singapore, Somendra Singh",
+      "email": "cm.sg@bankofindia.co.in",
+      "company": "Bank of India",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "kv6ugogzi",
+      "name": "Bank of India Singapore, Somendra Singh",
+      "email": "ce.sg@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "gypxqdsyu",
+      "name": "Bank of India Paris, Rajeev Mohan Awasthi",
+      "email": "credit.paris@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "Paris"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "vyqxoys1o",
+      "name": "Bank of India Paris, Rajeev Mohan Awasthi",
+      "email": "boi.paris@wanadoo.fr",
+      "company": "Bank of India",
+      "tags": [
+        "Paris"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "l5ngqldd7",
+      "name": "Bank of India Dubai, Rahul Dilip Ghodake",
+      "email": "boi.dubai@bankofindia.co.in",
+      "company": "Bank of India",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "2w8nuiq3c",
+      "name": "Bank of India Dubai, Rahul Dilip Ghodake",
+      "email": "tradefinance.dubai@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "xkoq98eoq",
+      "name": "Bank of India Dubai, Rahul Dilip Ghodake",
+      "email": "seo.dubai@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "q6scqzovu",
+      "name": "Bank of India Gift City, Arvind Singh",
+      "email": "giftcity.gandhinagar@bankofindia.co.in",
+      "company": "Bank of India",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "e9wmw5tzx",
+      "name": "Bank of India Gift City, Arvind Singh",
+      "email": "giftcity.ibu@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "78bduve22",
+      "name": "Bank of India New York, Vijay Kumar",
+      "email": "credit.ny@bankofindia.co.in",
+      "company": "Bank of India",
+      "tags": [
+        "New York"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "vf1s709hh",
+      "name": "Bank of India London, Dhruv Jani",
+      "email": "tradefinance@bankofindia.uk.com",
+      "company": "Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "fd7njpo7b",
+      "name": "Bank of India London, Dhruv Jani",
+      "email": "manager.credit3@bankofindia.uk.com",
+      "company": "Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "u3ue5wuvq",
+      "name": "Bank of India London, Dhruv Jani",
+      "email": "manager.london@bankofindia.uk.com",
+      "company": "Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "ieelwhdqz",
+      "name": "Bank of India London, Dhruv Jani",
+      "email": "ceeb@bankofindia.uk.com",
+      "company": "Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "tf12inz35",
+      "name": "Bank of India London, Dhruv Jani",
+      "email": "boi.londonceo@bankofindia.bank.in",
+      "company": "Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "es7gdz0z3",
+      "name": "Bank of India London, Dhruv Jani",
+      "email": "londonbranch@bankofindia.uk.com",
+      "company": "Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "kjh5cgxb7",
+      "name": "Bank of India London, Dhruv Jani",
+      "email": "manager-credit1@bankofindia.uk.com",
+      "company": "Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "8ajqqxj4r",
+      "name": "Bank of India Osaka, Sandip G. Kodgire",
+      "email": "boi.osaka@bankofindia.co.in",
+      "company": "Bank of India",
+      "tags": [
+        "Osaka"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "5g64uxcpt",
+      "name": "UCO Bank Singapore, Amit Morey",
+      "email": "trade@ucobank.com.sg",
+      "company": "UCO Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "e1ykh570e",
+      "name": "UCO Bank Hong Kong, Naveen Ramnani",
+      "email": "hkmain@ucobank.co.in",
+      "company": "UCO Bank",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "ld5hnmzcn",
+      "name": "UCO Bank Hong Kong, Naveen Ramnani",
+      "email": "hkmain@uco.bank.in",
+      "company": "UCO Bank",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "ra0c9u3yh",
+      "name": "UCO Bank Hong Kong, Naveen Ramnani",
+      "email": "cesec.hk@uco.bank.in",
+      "company": "UCO Bank",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "rjfnxbxsp",
+      "name": "UCO Bank Hong Kong, Naveen Ramnani",
+      "email": "hk.treasury@uco.bank.in",
+      "company": "UCO Bank",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "808ldewz5",
+      "name": "State Bank of India Israel, Sachin A. Pawaskar",
+      "email": "mgrtf.israel@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Israel"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "wybp3jkor",
+      "name": "State Bank of India Israel, Sachin A. Pawaskar",
+      "email": "vpc.israel@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Israel"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "at2v1vsix",
+      "name": "State Bank of India Frank Furt, Rosalie Dornieden",
+      "email": "r.dornieden@statebank-frankfurt.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Frank Furt"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "badzf7c6w",
+      "name": "State Bank of India Frank Furt, Rosalie Dornieden",
+      "email": "svp.trade@statebank-frankfurt.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Frank Furt"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "prthr56wp",
+      "name": "State Bank of India Frank Furt, Rosalie Dornieden",
+      "email": "trade@statebank-frankfurt.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Frank Furt"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "dxajggc8n",
+      "name": "State Bank of India Antwerp, Alok Ranjan Padhi",
+      "email": "mgrtrade.antwerp@sbi.co.in",
+      "company": "State Bank of India",
+      "tags": [
+        "Antwerp"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "ubwkgymbe",
+      "name": "State Bank of India Antwerp, Alok Ranjan Padhi",
+      "email": "amtrade.antwerp@sbi.co.in",
+      "company": "State Bank of India",
+      "tags": [
+        "Antwerp"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "mcaba4wgk",
+      "name": "State Bank of India Chicago, Manish Sagar",
+      "email": "avpib.chicago@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Chicago"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "bj1c39jre",
+      "name": "State Bank of India Chicago, Manish Sagar",
+      "email": "vpib.chicago@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Chicago"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "96kybytdo",
+      "name": "State Bank of India Seoul, Mayank Uniyal",
+      "email": "avptf.seoul@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Seoul"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "2wg7a3xqk",
+      "name": "State Bank of India Shanghai, Mayur M. Kamath",
+      "email": "mgrcredit.shanghai@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Shanghai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "nckmvou9w",
+      "name": "State Bank of India Shanghai, Mayur M. Kamath",
+      "email": "headtrade.shanghai@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Shanghai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "efeseiodd",
+      "name": "State Bank of India Shanghai, Mayur M. Kamath",
+      "email": "shcredit.shanghai@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Shanghai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "lbs7rca8t",
+      "name": "State Bank of India Shanghai, Mayur M. Kamath",
+      "email": "mgr2credit.shanghai@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Shanghai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "xu0gekux4",
+      "name": "State Bank of India Shanghai, Mayur M. Kamath",
+      "email": "assttf6.shanghai@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Shanghai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "tnwtxtb4m",
+      "name": "State Bank of India Gift City",
+      "email": "mgrtrade.ibu@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "rtskj49eu",
+      "name": "State Bank of India Gift City",
+      "email": "loans2.ibu@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "bn7rfmece",
+      "name": "State Bank of India Gift City",
+      "email": "bh.ibu@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "j3y87kjqy",
+      "name": "State Bank of India Singapore, Ankit Dubey",
+      "email": "avptf@sbising.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "2mjr5ry3z",
+      "name": "State Bank of India Singapore, Ankit Dubey",
+      "email": "headtf@sbising.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "du2xniaoa",
+      "name": "State Bank of India Los Angeles, Kamal Bansal",
+      "email": "mgrtrade.laa@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Los Angeles"
+      ],
+      "createdAt": "2026-06-03T17:33:21.625Z"
+    },
+    {
+      "id": "zulg7m9qf",
+      "name": "State Bank of India Los Angeles, Kamal Bansal",
+      "email": "ceo.laa@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Los Angeles"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "swdcehvsn",
+      "name": "State Bank of India Los Angeles, Kamal Bansal",
+      "email": "vpts.laa@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Los Angeles"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "5roklgkzv",
+      "name": "State Bank of India Hong Kong, Shabnam Mishra",
+      "email": "vptrade.hk@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "cjtwsvqqa",
+      "name": "State Bank of India Hong Kong, Shabnam Mishra",
+      "email": "avptrade1.hk@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "fjudrhzfb",
+      "name": "State Bank of India Hong Kong, Shabnam Mishra",
+      "email": "trade4.hk@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "xgw1zql3s",
+      "name": "State Bank of India Hong Kong, Shabnam Mishra",
+      "email": "info.hk@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "zrwm9ndvi",
+      "name": "State Bank of India Hong Kong, Shabnam Mishra",
+      "email": "trade.hk@sbi.co.in",
+      "company": "State Bank of India",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "mmtuea1yu",
+      "name": "State Bank of India Hong Kong, Shabnam Mishra",
+      "email": "credit.hk@sbi.co.in",
+      "company": "State Bank of India",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "2rt1y8lvn",
+      "name": "State Bank of India Hong Kong, Shabnam Mishra",
+      "email": "ceo.hk@sbi.co.in",
+      "company": "State Bank of India",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "xzgvfivd2",
+      "name": "State Bank of India London, Mitali Chadd Samant",
+      "email": "pavitra.naik.sbiuk@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "18bws6ye8",
+      "name": "State Bank of India London, Mitali Chadd Samant",
+      "email": "pabina.dahal.sbiuk@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "y2y1vc0vj",
+      "name": "State Bank of India London, Mitali Chadd Samant",
+      "email": "trade1.sbiuk@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "blgryc8yn",
+      "name": "State Bank of India London, Mitali Chadd Samant",
+      "email": "chandan.nayak.sbiuk@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "udnmisww1",
+      "name": "State Bank of India London, Mitali Chadd Samant",
+      "email": "headtrade.london@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "gcliyvs5z",
+      "name": "State Bank of India London, Mitali Chadd Samant",
+      "email": "trade2.london@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "rp5w2b81h",
+      "name": "State Bank of India London, Mitali Chadd Samant",
+      "email": "neethu.km.london@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "i5rlo1wzx",
+      "name": "State Bank of India London, Mitali Chadd Samant",
+      "email": "trade2.sbiuk@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "4j8ehdbfw",
+      "name": "State Bank of India London, Mitali Chadd Samant",
+      "email": "headtrade.sbiuk@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "c5nzqqoir",
+      "name": "State Bank of India Tokyo, Amit Mishra",
+      "email": "avptf.tokyo@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Tokyo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "y6vcwiuoo",
+      "name": "State Bank of India Tokyo, Amit Mishra",
+      "email": "vpcom.tokyo@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Tokyo"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "x3qr9ktpw",
+      "name": "State Bank of India New York, Mathan",
+      "email": "mgrbills.nyb@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "New York"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "pifxnd2en",
+      "name": "State Bank of India New York, Mathan",
+      "email": "mgrtrade.nyb@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "New York"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "x0nz1q5gz",
+      "name": "State Bank of India New York, Mathan",
+      "email": "vptrade.nyb@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "New York"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "8n30730so",
+      "name": "State Bank of India Johannesburg, B V S KALYANI",
+      "email": "mgrtrade.rsa@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Johannesburg"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "a6gvehpy2",
+      "name": "State Bank of India Johannesburg, B V S KALYANI",
+      "email": "trade1.rsa@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Johannesburg"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "6qnikb6ic",
+      "name": "State Bank of India Johannesburg, B V S KALYANI",
+      "email": "trade2.rsa@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Johannesburg"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "k62e3dnns",
+      "name": "State Bank of India Osaka, Abhishek Mahto",
+      "email": "avptf.osaka@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Osaka"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "uxkg8argc",
+      "name": "State Bank of India Osaka, Abhishek Mahto",
+      "email": "vptrade.osaka@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Osaka"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "jzyk3ail0",
+      "name": "State Bank of India Sydney, Saurabh Kumar",
+      "email": "avp.trade@sbisyd.com.au",
+      "company": "State Bank of India",
+      "tags": [
+        "Sydney"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "xdmyr3ufa",
+      "name": "State Bank of India Sydney, Saurabh Kumar",
+      "email": "trade@sbisyd.com.au",
+      "company": "State Bank of India",
+      "tags": [
+        "Sydney"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "simldsoz3",
+      "name": "State Bank of India Sydney, Saurabh Kumar",
+      "email": "vp.trade@sbisyd.com.au",
+      "company": "State Bank of India",
+      "tags": [
+        "Sydney"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "hkq0c8fzr",
+      "name": "State Bank of India Sydney, Saurabh Kumar",
+      "email": "tam.pham@sbisyd.com.au",
+      "company": "State Bank of India",
+      "tags": [
+        "Sydney"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "an0l9i90g",
+      "name": "State Bank of India Paris, Permanently Closed",
+      "email": "sbi.paris@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Paris"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "6l24xphbs",
+      "name": "State Bank of India Paris, Permanently Closed",
+      "email": "manager.paris@sbi.co.in",
+      "company": "State Bank of India",
+      "tags": [
+        "Paris"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "gw8tifg9h",
+      "name": "State Bank of India Paris, Permanently Closed",
+      "email": "ops.paris@sbi.co.in",
+      "company": "State Bank of India",
+      "tags": [
+        "Paris"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "gf96hbc65",
+      "name": "State Bank of India Bahrain",
+      "email": "trade.wbbbah@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Bahrain"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "uh8c7xtkt",
+      "name": "State Bank of India Bahrain",
+      "email": "credit.rbbh@statebank.com",
+      "company": "State Bank of India",
+      "tags": [
+        "Bahrain"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "2tc22gfw1",
+      "name": "Union Bank of India Dubai, Biplab Kumar Rana",
+      "email": "bkrana@unionbankofindia.bank",
+      "company": "Union Bank of India",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "jqrz0hnpx",
+      "name": "Union Bank of India Dubai, Biplab Kumar Rana",
+      "email": "dealer.dubai@unionbankofindia.bank",
+      "company": "Union Bank of India",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "abvm5c63r",
+      "name": "Union Bank of India Dubai, Biplab Kumar Rana",
+      "email": "headops.difc@unionbankofindia.bank",
+      "company": "Union Bank of India",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "na9u03zju",
+      "name": "Union Bank of India Dubai, Biplab Kumar Rana",
+      "email": "dubai@unionbankofindia.bank",
+      "company": "Union Bank of India",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "rnjunnt8s",
+      "name": "Union Bank of India Dubai, Biplab Kumar Rana",
+      "email": "ceo.dubai@unionbankofindia.bank",
+      "company": "Union Bank of India",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "g6ka5w1yc",
+      "name": "Union Bank of India Dubai, Biplab Kumar Rana",
+      "email": "ibd@unionbankofindia.bank",
+      "company": "Union Bank of India",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "oawhhoeuo",
+      "name": "Union Bank of India London, Syam Sunder",
+      "email": "credit@unionbankofindiauk.co.uk",
+      "company": "Union Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "9cx1el2c5",
+      "name": "Union Bank of India London, Syam Sunder",
+      "email": "kumar.shashiranjan@unionbankofindiauk.co.uk",
+      "company": "Union Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "ibl3f4asy",
+      "name": "Union Bank of India London, Syam Sunder",
+      "email": "bruno.dsouza@unionbankofindiauk.co.uk",
+      "company": "Union Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "35ecxc4hs",
+      "name": "Union Bank of India London, Syam Sunder",
+      "email": "info@unionbankofindiauk.co.uk",
+      "company": "Union Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "t79rjlqhh",
+      "name": "Union Bank of India London, Syam Sunder",
+      "email": "ceo.office@unionbankofindiauk.co.uk",
+      "company": "Union Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "9rur8jxtw",
+      "name": "Union Bank of India London, Syam Sunder",
+      "email": "arbind.choudhary@unionbankofindiauk.co.uk",
+      "company": "Union Bank of India",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "ku1edk2o3",
+      "name": "IDBI Bank Gift City, Geetesh Kumar",
+      "email": "ibugiftcity@idbi.co.in",
+      "company": "IDBI Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "1fm07oc1r",
+      "name": "IDBI Bank Gift City, Geetesh Kumar",
+      "email": "sanjit.bose@idbi.co.in",
+      "company": "IDBI Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "1vb0wckf2",
+      "name": "IDBI Bank Gift City, Geetesh Kumar",
+      "email": "rahul.sinha@idbi.co.in",
+      "company": "IDBI Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "27cr78z5j",
+      "name": "IDBI Bank Gift City, Geetesh Kumar",
+      "email": "neha.gupta@idbi.co.in",
+      "company": "IDBI Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "0ymumoav9",
+      "name": "IDBI Bank Gift City, Geetesh Kumar",
+      "email": "bhanupriya.yadav@idbi.co.in",
+      "company": "IDBI Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "u7em2enh9",
+      "name": "Bank of Baroda Singapore, Sumit Kumar",
+      "email": "ce.singapore@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "hhwu3fau0",
+      "name": "Bank of Baroda Singapore, Sumit Kumar",
+      "email": "singapore@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "paq21tjzt",
+      "name": "Bank of Baroda Brussels",
+      "email": "ce.brussels@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Brussels"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "8nq0ucxzo",
+      "name": "Bank of Baroda New York",
+      "email": "newyor@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "New York"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "e4uidp11p",
+      "name": "Bank of Baroda Seychelles",
+      "email": "seyche@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Seychelles"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "nexnjhpfa",
+      "name": "Bank of Baroda Seychelles",
+      "email": "ce.seychelles@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Seychelles"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "4o5nksf7e",
+      "name": "Bank of Baroda London",
+      "email": "gsc.uk@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "e843jqq94",
+      "name": "Bank of Baroda London",
+      "email": "nribo@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "uuy589f5h",
+      "name": "Bank of Baroda London",
+      "email": "sma.uk@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "London"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "k9wwklrci",
+      "name": "Bank of Baroda Sydney",
+      "email": "sydney@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Sydney"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "y5xfkeho5",
+      "name": "Bank of Baroda Sydney",
+      "email": "ce.australia@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Sydney"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "gtt3jkyf9",
+      "name": "Bank of Baroda Sydney",
+      "email": "vp.australia@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Sydney"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "toy2dk7dn",
+      "name": "Bank of Baroda Sydney",
+      "email": "credit.australia@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Sydney"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "4nu9n43lq",
+      "name": "Bank of Baroda Sydney",
+      "email": "treasury.australia@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Sydney"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "myfoorogy",
+      "name": "Bank of Baroda Gift City, Syed Matin Ahmed",
+      "email": "relations.ibu@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "f3p7bo9rx",
+      "name": "Bank of Baroda Gift City, Syed Matin Ahmed",
+      "email": "tf.ibu@bankofbaroda.bank.in",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "hz8dtle0y",
+      "name": "Bank of Baroda Hong Kong, Shajan Babu Vayaprath Bungla",
+      "email": "hongko@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "19uv1y4jg",
+      "name": "Bank of Baroda Hong Kong, Shajan Babu Vayaprath Bungla",
+      "email": "advances.hongko@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "5eljb9cxp",
+      "name": "Bank of Baroda Hong Kong, Shajan Babu Vayaprath Bungla",
+      "email": "trade.hongkong@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "r55uj606n",
+      "name": "Bank of Baroda Hong Kong, Shajan Babu Vayaprath Bungla",
+      "email": "hongkong@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "lk1jgnaqj",
+      "name": "Bank of Baroda Hong Kong, Shajan Babu Vayaprath Bungla",
+      "email": "ce.hongkong@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "8rys4wwr6",
+      "name": "Bank of Baroda Dubai",
+      "email": "frontofce@bankofbaroda-uae.ae",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "nukx82bq7",
+      "name": "Bank of Baroda Dubai",
+      "email": "compmlro.difc@bankofbaroda.com",
+      "company": "Bank of Baroda",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "5dv4il1dy",
+      "name": "BONY Mumbai, Velvina Pinto",
+      "email": "velvina.pinto@bnymellon.com",
+      "company": "BONY",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "u4fjexjd9",
+      "name": "BONY Mumbai, Velvina Pinto",
+      "email": "mumbai_cs@bnymellon.com",
+      "company": "BONY",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "kjc5sd7o1",
+      "name": "BONY Mumbai, Velvina Pinto",
+      "email": "anand.neettiyath@bnymellon.com",
+      "company": "BONY",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "cwyyoprby",
+      "name": "BONY Mumbai, Audrey Yeo",
+      "email": "audrey.yeo@bnymellon.com",
+      "company": "BONY",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "10q71p8h4",
+      "name": "BONY Mumbai, Rajesh R. Nair",
+      "email": "rajesh.r.nair@bnymellon.com",
+      "company": "BONY",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "gwuyezwdu",
+      "name": "Commersz Bank Mumbai, Atul Deshpande",
+      "email": "atul.deshpande@commerzbank.com",
+      "company": "Commersz Bank",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "1x9u5c632",
+      "name": "Citi Bank Mumbai, Rahul Suri",
+      "email": "rahul.suri@citi.com",
+      "company": "Citi Bank",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "lz2d3szfi",
+      "name": "Citi Bank Mumbai, Akshay Kumar",
+      "email": "akshay1.kumar@citi.com",
+      "company": "Citi Bank",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "g72bnq9zs",
+      "name": "Citi Bank Mumbai, Akshay Kumar",
+      "email": "ak73645@citi.com",
+      "company": "Citi Bank",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "tj3clofo6",
+      "name": "HSBC Malaysia, Gurjant Singh Gill (Jay)",
+      "email": "gtrfpremclientsvsmyh@hsbc.com.my",
+      "company": "HSBC",
+      "tags": [
+        "Malaysia"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "qffm5nyx4",
+      "name": "HSBC Malaysia, Edwin Sia Wei Yew",
+      "email": "edwin.sia@hsbc.com.my",
+      "company": "HSBC",
+      "tags": [
+        "Malaysia"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "nm4fer2mn",
+      "name": "Wells Fargo Bank Singapore, Vivek Sharma",
+      "email": "vivek.b.sharma@wellsfargo.com",
+      "company": "Wells Fargo Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "yoll3hl6x",
+      "name": "Wells Fargo Bank Singapore, Vivek Sharma",
+      "email": "kaushik.mukherjee@wellsfargo.com",
+      "company": "Wells Fargo Bank",
+      "tags": [
+        "Singapore"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "1mwgrpabw",
+      "name": "Zucher Kontal Bank Mumbai, Ashish Kumar",
+      "email": "ashish@zkbmumbai.com",
+      "company": "Zucher Kontal Bank",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "x7kpmb9k0",
+      "name": "ICICI Bank Mumbai, Shubham Shiral",
+      "email": "shiral.shubham@icicibank.com",
+      "company": "ICICI Bank",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "g4vn0giwu",
+      "name": "ICICI Bank Mumbai, Siddhi Ghag",
+      "email": "siddhi.ghag@icicibank.com",
+      "company": "ICICI Bank",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.626Z"
+    },
+    {
+      "id": "s51vpwqqw",
+      "name": "ICICI Bank Dubai, Deepak Kumar",
+      "email": "deepak.kkmar@icicibank.com",
+      "company": "ICICI Bank",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.627Z"
+    },
+    {
+      "id": "zn2ecmymv",
+      "name": "ICICI Bank Dubai, Deepak Kumar",
+      "email": "figtrade@icicibank.com",
+      "company": "ICICI Bank",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.627Z"
+    },
+    {
+      "id": "y5u4udcvb",
+      "name": "ICICI Bank Dubai, Deepak Kumar",
+      "email": "mishra.neha@icicibank.com",
+      "company": "ICICI Bank",
+      "tags": [
+        "Dubai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.627Z"
+    },
+    {
+      "id": "w3gi5f2fg",
+      "name": "ICICI Bank Hong Kong, Sarika",
+      "email": "sarika.anand@icicibank.com",
+      "company": "ICICI Bank",
+      "tags": [
+        "Hong Kong"
+      ],
+      "createdAt": "2026-06-03T17:33:21.627Z"
+    },
+    {
+      "id": "wxr5ujtq6",
+      "name": "ICICI Bank Gift City, Pranat Shah",
+      "email": "shah.pranat@icicibank.com",
+      "company": "ICICI Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.627Z"
+    },
+    {
+      "id": "g9j9si6la",
+      "name": "ICICI Bank Gift City, Pranat Shah",
+      "email": "hiren.kansara@icicibank.com",
+      "company": "ICICI Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.627Z"
+    },
+    {
+      "id": "m8e0yhqu1",
+      "name": "ICICI Bank Gift City, Pranat Shah",
+      "email": "devinkumar.patel@icicibank.com",
+      "company": "ICICI Bank",
+      "tags": [
+        "Gift City"
+      ],
+      "createdAt": "2026-06-03T17:33:21.627Z"
+    },
+    {
+      "id": "uhngb5szp",
+      "name": "Deutsche Bank Mumbai, Mathew-P George",
+      "email": "mathew-p.george@db.com",
+      "company": "Deutsche Bank",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.627Z"
+    },
+    {
+      "id": "5kl9hgofu",
+      "name": "Deutsche Bank Mumbai, Mathew-P George",
+      "email": "anish.ghosh@db.com",
+      "company": "Deutsche Bank",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.627Z"
+    },
+    {
+      "id": "9r017olvb",
+      "name": "Deutsche Bank Mumbai, Rohit Chapde",
+      "email": "rohit.chapde@db.com",
+      "company": "Deutsche Bank",
+      "tags": [
+        "Mumbai"
+      ],
+      "createdAt": "2026-06-03T17:33:21.627Z"
+    },
+    {
+      "id": "rmfdud6db",
+      "name": "Shyam",
+      "email": "dwarka.dhuppar@gmail.com",
+      "company": "XYZ",
+      "tags": [],
+      "createdAt": "2026-06-03T17:34:52.202Z"
+    },
+    {
+      "id": "r2edypgui",
+      "name": "Jobthon",
+      "email": "jobthonplacement@gmail.com",
+      "company": "Jobthon",
+      "tags": [],
+      "createdAt": "2026-06-03T17:35:13.273Z"
+    },
+    {
+      "id": "bfmkyv0cs",
+      "name": "chitra",
+      "email": "chitra.credance@gmail.com",
+      "company": "chitra",
+      "tags": [],
+      "createdAt": "2026-06-03T18:03:31.177Z"
+    },
+    {
+      "id": "i1x5lxyhn",
+      "name": "Credance",
+      "email": "credanceforex@gmail.com",
+      "company": "Credance",
+      "tags": [],
+      "createdAt": "2026-06-03T18:03:53.051Z"
+    }
+  ],
+  "templates": [
+    {
+      "id": "1",
+      "name": "Product Demo Follow-up",
+      "subject": "Quick follow-up regarding our product demo",
+      "body": "Hi {name},\n\nIt was great speaking with you today about how we can help {company} automate your workflow. I wanted to follow up and see if you had any questions regarding the pricing plans we discussed.\n\nLooking forward to hearing from you!\n\nBest regards,\nAnshul",
+      "createdAt": "2026-05-21T18:05:38.683Z"
+    },
+    {
+      "id": "2",
+      "name": "Monthly Product Newsletter",
+      "subject": "Exciting updates for {company} in May!",
+      "body": "Hi {name},\n\nWe're thrilled to share our latest product updates with the team at {company}.\n\nThis month, we've launched our fully automated email sender! No more copy-pasting, no more manual mistakes. You can now send personalized bulk emails in seconds.\n\nLet us know if you would like a guided tour of the new features.\n\nCheers,\nAnshul",
+      "createdAt": "2026-05-22T18:05:38.683Z"
+    },
+    {
+      "id": "3",
+      "name": "Invoice Reminder",
+      "subject": "Friendly Reminder: Outstanding invoice for {company}",
+      "body": "Hi {name},\n\nHope you're doing well. This is a friendly reminder that the outstanding invoice for {company} is due next week. Please let me know if you have any questions or need us to resend the secure payment link.\n\nThank you for your business!\n\nBest regards,\nAnshul",
+      "createdAt": "2026-05-23T18:05:38.683Z"
+    },
+    {
+      "id": "buyer-credit-jas7a",
+      "name": "Buyer's Credit",
+      "subject": "Price Quote Request: Buyer's Credit Transaction",
+      "body": "Dear Sir,\n\n\nKindly provide the price for below buyer's credit transactions: -\n\n\nTransaction No. 1\n\n\n1. Applicant Name – Ellecha Global Private Limited.\n\n2. SBLC Issuing Bank: Yes Bank\n\n3. Amount: USD 102,000.00 \n\n4. Tenor: 60 days\n\n5. Supplier's Name: ANHUI MEIJIA NEW MATERIALS CO., LTD., China\n\n6. Due Date - 31/05/2026\n\n7. Date of Shipment - 11/01/2026\n\n8. Port of Loading: Shanghai, China \n\n9. Port of Discharge: India\n\n10. Commodity: SOLID EPOXY RESIN \n\n\n\n\nThanks and Regards,\nChitra Ray\nCredance\n9836087478",
+      "createdAt": "2026-06-03T17:37:25.683Z"
+    },
+    {
+      "id": "supplier-credit-34aa2",
+      "name": "Supplier's Credit",
+      "subject": "Price Quote Request: Supplier's Credit under RA Route",
+      "body": "Dear Sir/ Madam,\n\n \nKindly provide the price for below supplier's credit transactions under RA Route:\n\n\nTransaction No.1\n\n \nApplicant Name - Shakambhari Ispat And Power Limited\n\nOpening Bank - State Bank of India\n\nAmount - USD 631,048.00\n\nTenor - 90 days\n\nSupplier Name - WMA COMMODITIES FZCO, Dubai, UAE\n\nCommodity - Manganese Ore\n\nPort of loading - SOUTH AFRICA AND/OR LÜDERITZ, NAMIBIA \n\nPost of discharge - India\n\nConfirmation - Not required\n\nLast date of shipment - JULY 2026\n\n\n\nTransaction No.2\n\n \nApplicant Name - Shakambhari Ispat And Power Limited\n\nOpening Bank - State Bank of India\n\nAmount - USD 257,752.00\n\nTenor - 90 days\n\nSupplier Name - WMA COMMODITIES FZCO, Dubai, UAE\n\nCommodity - Manganese Ore\n\nPort of loading - SOUTH AFRICA AND/OR LÜDERITZ, NAMIBIA \n\nPost of discharge - India\n\nConfirmation - Not required\n\nLast date of shipment - JULY 2026\n\n\n\n\nTransaction No.3\n\n \nApplicant Name - ELOQUENT STEEL PRIVATE LIMITED \n\nOpening Bank - State Bank of India\n\nAmount - USD 888,800.00\n\nTenor - 90 days\n\nSupplier Name - WMA COMMODITIES FZCO, Dubai, UAE\n\nCommodity - Manganese Ore\n\nPort of loading - SOUTH AFRICA AND/OR\nLÜDERITZ, NAMIBIA \n\nPost of discharge - India\n\nConfirmation - Not required\n\nLast date of shipment - JULY 2026",
+      "createdAt": "2026-06-03T17:37:25.685Z"
+    }
+  ],
+  "settings": {
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "secure": true,
+    "user": "anshulsomani735@gmail.com",
+    "pass": "tsyk myow fppd nkne",
+    "senderName": "Anshul Somani",
+    "senderEmail": "anshulsomani735@gmail.com",
+    "simulatedMode": false
+  },
+  "history": [
+    {
+      "id": "wl4m63p8t",
+      "batchId": "mshlltglu",
+      "recipientName": "Branch Contacts",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Request for supplier's credit transactions",
+      "body": "Dear Sir/ Madam,\n\n \nKindly provide the price for below supplier's credit transactions under RA Route:\n\n\nTransaction No. 1\n\nApplicant Name: \nOpening Bank: \nAmount: \nTenor: \nSupplier Name: \nCommodity: \nPort of loading: \nPost of discharge: \nConfirmation: \nLast date of shipment: \n\n\n\nThanks and Regards,\nChitra Ray\nCredance\n9836087478",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-06T10:38:15.604Z"
+    },
+    {
+      "id": "ds6ipc45s",
+      "batchId": "qjyrpks9w",
+      "recipientName": "Branch Contacts",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Request for supplier's credit transactions",
+      "body": "Dear Sir/ Madam,\n\n \nKindly provide the price for below supplier's credit transactions under RA Route:\n\n\nTransaction No. 1\n\nApplicant Name: \nOpening Bank: \nAmount: \nTenor: \nSupplier Name: \nCommodity: \nPort of loading: \nPost of discharge: \nConfirmation: \nLast date of shipment: \n\n\nTransaction No. 2\n\nApplicant Name: \nOpening Bank: \nAmount: \nTenor: \nSupplier Name: \nCommodity: \nPort of loading: \nPost of discharge: \nConfirmation: \nLast date of shipment: \n\n\n\nThanks and Regards,\nChitra Ray\nCredance\n9836087478",
+      "mode": "SMTP",
+      "status": "failed",
+      "sentAt": "2026-06-06T10:36:33.498Z",
+      "error": "require is not defined"
+    },
+    {
+      "id": "m231ddudj",
+      "batchId": "zorld3kpq",
+      "recipientName": "Jobthon",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Price Quote Request: Buyer's Credit Transaction",
+      "body": "Dear Sir,\n\n\nKindly provide the price for below buyer's credit transactions: -\n\n\nTransaction No. 1\n\n1. Applicant Name: \n2. SBLC Issuing Bank: \n3. Amount: \n4. Tenor: \n5. Supplier's Name: \n6. Due Date: \n7. Date of Shipment: \n8. Port of Loading: \n9. Port of Discharge: \n10. Commodity: \n\n\n\nThanks and Regards,\nChitra Ray\nCredance\n9836087478",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T18:56:09.828Z"
+    },
+    {
+      "id": "cjbbzee3a",
+      "batchId": "5zedx4wtx",
+      "recipientName": "Jobthon",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Price Quote Request: Buyer's Credit Transaction",
+      "body": "Dear Sir,\n\n\nKindly provide the price for below buyer's credit transactions: -\n\n\nParticulars              | Transaction No. 1                              | Transaction No. 2                              | Transaction No. 3                             \n-------------------------|------------------------------------------------|------------------------------------------------|-----------------------------------------------\nApplicant Name           | Ellecha Global Private Limited.                | [Applicant Name]                               | [Applicant Name]                              \nSBLC Issuing Bank        | Yes Bank                                       | [SBLC Issuing Bank]                            | [SBLC Issuing Bank]                           \nAmount                   | USD 102,000.00                                 | [Amount]                                       | [Amount]                                      \nTenor                    | 60 days                                        | [Tenor]                                        | [Tenor]                                       \nSupplier's Name          | ANHUI MEIJIA NEW MATERIALS CO., LTD., China    | [Supplier's Name]                              | [Supplier's Name]                             \nDue Date                 | 31/05/2026                                     | [Due Date]                                     | [Due Date]                                    \nDate of Shipment         | 11/01/2026                                     | [Date of Shipment]                             | [Date of Shipment]                            \nPort of Loading          | Shanghai, China                                | [Port of Loading]                              | [Port of Loading]                             \nPort of Discharge        | India                                          | [Port of Discharge]                            | [Port of Discharge]                           \nCommodity                | SOLID EPOXY RESIN                              | [Commodity]                                    | [Commodity]                                   \n\n\n\nThanks and Regards,\nChitra Ray\nCredance\n9836087478",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T18:52:43.429Z"
+    },
+    {
+      "id": "dmg587i8n",
+      "batchId": "1wwhw0pr3",
+      "recipientName": "Jobthon",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Price Quote Request: Buyer's Credit Transaction",
+      "body": "Dear Sir,\n\n\nKindly provide the price for below buyer's credit transactions: -\n\n\nTransaction No. 1\n\n\n1. Applicant Name – Ellecha Global Private Limited.\n\n2. SBLC Issuing Bank: Yes Bank\n\n3. Amount: USD 102,000.00 \n\n4. Tenor: 60 days\n\n5. Supplier's Name: ANHUI MEIJIA NEW MATERIALS CO., LTD., China\n\n6. Due Date - 31/05/2026\n\n7. Date of Shipment - 11/01/2026\n\n8. Port of Loading: Shanghai, China \n\n9. Port of Discharge: India\n\n10. Commodity: SOLID EPOXY RESIN \n\n\n\n\nThanks and Regards,\nChitra Ray\nCredance\n9836087478",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T18:10:08.384Z"
+    },
+    {
+      "id": "7ic99opim",
+      "batchId": "1wwhw0pr3",
+      "recipientName": "Shyam",
+      "recipientEmail": "dwarka.dhuppar@gmail.com",
+      "subject": "Price Quote Request: Buyer's Credit Transaction",
+      "body": "Dear Sir,\n\n\nKindly provide the price for below buyer's credit transactions: -\n\n\nTransaction No. 1\n\n\n1. Applicant Name – Ellecha Global Private Limited.\n\n2. SBLC Issuing Bank: Yes Bank\n\n3. Amount: USD 102,000.00 \n\n4. Tenor: 60 days\n\n5. Supplier's Name: ANHUI MEIJIA NEW MATERIALS CO., LTD., China\n\n6. Due Date - 31/05/2026\n\n7. Date of Shipment - 11/01/2026\n\n8. Port of Loading: Shanghai, China \n\n9. Port of Discharge: India\n\n10. Commodity: SOLID EPOXY RESIN \n\n\n\n\nThanks and Regards,\nChitra Ray\nCredance\n9836087478",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T18:10:04.920Z"
+    },
+    {
+      "id": "817fokt0v",
+      "batchId": "1wwhw0pr3",
+      "recipientName": "chitra",
+      "recipientEmail": "chitra.credance@gmail.com",
+      "subject": "Price Quote Request: Buyer's Credit Transaction",
+      "body": "Dear Sir,\n\n\nKindly provide the price for below buyer's credit transactions: -\n\n\nTransaction No. 1\n\n\n1. Applicant Name – Ellecha Global Private Limited.\n\n2. SBLC Issuing Bank: Yes Bank\n\n3. Amount: USD 102,000.00 \n\n4. Tenor: 60 days\n\n5. Supplier's Name: ANHUI MEIJIA NEW MATERIALS CO., LTD., China\n\n6. Due Date - 31/05/2026\n\n7. Date of Shipment - 11/01/2026\n\n8. Port of Loading: Shanghai, China \n\n9. Port of Discharge: India\n\n10. Commodity: SOLID EPOXY RESIN \n\n\n\n\nThanks and Regards,\nChitra Ray\nCredance\n9836087478",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T18:10:01.335Z"
+    },
+    {
+      "id": "wamfnvlfb",
+      "batchId": "abrh2xitv",
+      "recipientName": "Jobthon",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Price Quote Request: Buyer's Credit Transaction",
+      "body": "Dear Sir,\n\n\nKindly provide the price for below buyer's credit transactions: -\n\n\nTransaction No. 1\n\n\n1. Applicant Name – Ellecha Global Private Limited.\n\n2. SBLC Issuing Bank: Yes Bank\n\n3. Amount: USD 102,000.00 \n\n4. Tenor: 60 days\n\n5. Supplier's Name: ANHUI MEIJIA NEW MATERIALS CO., LTD., China\n\n6. Due Date - 31/05/2026\n\n7. Date of Shipment - 11/01/2026\n\n8. Port of Loading: Shanghai, China \n\n9. Port of Discharge: India\n\n10. Commodity: SOLID EPOXY RESIN \n\n\n\n\nThanks and Regards,\nChitra Ray\nCredance\n9836087478",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:42:54.117Z"
+    },
+    {
+      "id": "wavu33g25",
+      "batchId": "abrh2xitv",
+      "recipientName": "Shyam",
+      "recipientEmail": "dwarka.dhuppar@gmail.com",
+      "subject": "Price Quote Request: Buyer's Credit Transaction",
+      "body": "Dear Sir,\n\n\nKindly provide the price for below buyer's credit transactions: -\n\n\nTransaction No. 1\n\n\n1. Applicant Name – Ellecha Global Private Limited.\n\n2. SBLC Issuing Bank: Yes Bank\n\n3. Amount: USD 102,000.00 \n\n4. Tenor: 60 days\n\n5. Supplier's Name: ANHUI MEIJIA NEW MATERIALS CO., LTD., China\n\n6. Due Date - 31/05/2026\n\n7. Date of Shipment - 11/01/2026\n\n8. Port of Loading: Shanghai, China \n\n9. Port of Discharge: India\n\n10. Commodity: SOLID EPOXY RESIN \n\n\n\n\nThanks and Regards,\nChitra Ray\nCredance\n9836087478",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:42:36.653Z"
+    },
+    {
+      "id": "w36nhe4b1",
+      "batchId": "zn4nmfjon",
+      "recipientName": "Jobthon",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Price Quote Request: Supplier's Credit under RA Route",
+      "body": "Dear Sir/ Madam,\n\n \nKindly provide the price for below supplier's credit transactions under RA Route:\n\n\nTransaction No.1\n\n \nApplicant Name - Shakambhari Ispat And Power Limited\n\nOpening Bank - State Bank of India\n\nAmount - USD 631,048.00\n\nTenor - 90 days\n\nSupplier Name - WMA COMMODITIES FZCO, Dubai, UAE\n\nCommodity - Manganese Ore\n\nPort of loading - SOUTH AFRICA AND/OR LÜDERITZ, NAMIBIA \n\nPost of discharge - India\n\nConfirmation - Not required\n\nLast date of shipment - JULY 2026\n\n\n\nTransaction No.2\n\n \nApplicant Name - Shakambhari Ispat And Power Limited\n\nOpening Bank - State Bank of India\n\nAmount - USD 257,752.00\n\nTenor - 90 days\n\nSupplier Name - WMA COMMODITIES FZCO, Dubai, UAE\n\nCommodity - Manganese Ore\n\nPort of loading - SOUTH AFRICA AND/OR LÜDERITZ, NAMIBIA \n\nPost of discharge - India\n\nConfirmation - Not required\n\nLast date of shipment - JULY 2026\n\n\n\n\nTransaction No.3\n\n \nApplicant Name - ELOQUENT STEEL PRIVATE LIMITED \n\nOpening Bank - State Bank of India\n\nAmount - USD 888,800.00\n\nTenor - 90 days\n\nSupplier Name - WMA COMMODITIES FZCO, Dubai, UAE\n\nCommodity - Manganese Ore\n\nPort of loading - SOUTH AFRICA AND/OR\nLÜDERITZ, NAMIBIA \n\nPost of discharge - India\n\nConfirmation - Not required\n\nLast date of shipment - JULY 2026",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:40:22.624Z"
+    },
+    {
+      "id": "1541lqr08",
+      "batchId": "zn4nmfjon",
+      "recipientName": "Shyam",
+      "recipientEmail": "dwarka.dhuppar@gmail.com",
+      "subject": "Price Quote Request: Supplier's Credit under RA Route",
+      "body": "Dear Sir/ Madam,\n\n \nKindly provide the price for below supplier's credit transactions under RA Route:\n\n\nTransaction No.1\n\n \nApplicant Name - Shakambhari Ispat And Power Limited\n\nOpening Bank - State Bank of India\n\nAmount - USD 631,048.00\n\nTenor - 90 days\n\nSupplier Name - WMA COMMODITIES FZCO, Dubai, UAE\n\nCommodity - Manganese Ore\n\nPort of loading - SOUTH AFRICA AND/OR LÜDERITZ, NAMIBIA \n\nPost of discharge - India\n\nConfirmation - Not required\n\nLast date of shipment - JULY 2026\n\n\n\nTransaction No.2\n\n \nApplicant Name - Shakambhari Ispat And Power Limited\n\nOpening Bank - State Bank of India\n\nAmount - USD 257,752.00\n\nTenor - 90 days\n\nSupplier Name - WMA COMMODITIES FZCO, Dubai, UAE\n\nCommodity - Manganese Ore\n\nPort of loading - SOUTH AFRICA AND/OR LÜDERITZ, NAMIBIA \n\nPost of discharge - India\n\nConfirmation - Not required\n\nLast date of shipment - JULY 2026\n\n\n\n\nTransaction No.3\n\n \nApplicant Name - ELOQUENT STEEL PRIVATE LIMITED \n\nOpening Bank - State Bank of India\n\nAmount - USD 888,800.00\n\nTenor - 90 days\n\nSupplier Name - WMA COMMODITIES FZCO, Dubai, UAE\n\nCommodity - Manganese Ore\n\nPort of loading - SOUTH AFRICA AND/OR\nLÜDERITZ, NAMIBIA \n\nPost of discharge - India\n\nConfirmation - Not required\n\nLast date of shipment - JULY 2026",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:40:19.231Z"
+    },
+    {
+      "id": "alske5ge5",
+      "batchId": "3muxpcidb",
+      "recipientName": "Jobthon",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Quick update for Jobthon",
+      "body": "Hi how are you ",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:35:41.681Z"
+    },
+    {
+      "id": "rs6t4w8qp",
+      "batchId": "lleh8pds9",
+      "recipientName": "1111",
+      "recipientEmail": "somanishyam2006@gmail.com",
+      "subject": "Quick update for shyam",
+      "body": "Hi 1111,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:25:58.545Z"
+    },
+    {
+      "id": "gvzz8y718",
+      "batchId": "lleh8pds9",
+      "recipientName": "Ankit ",
+      "recipientEmail": "ankitmaheshwari14@gmail.com",
+      "subject": "Quick update for silver",
+      "body": "Hi Ankit ,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:25:54.660Z"
+    },
+    {
+      "id": "mfa8crxue",
+      "batchId": "lleh8pds9",
+      "recipientName": "DP-Mail",
+      "recipientEmail": "dawarka.dhuppar@gmail.com",
+      "subject": "Quick update for XYZ",
+      "body": "Hi DP-Mail,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:25:51.983Z"
+    },
+    {
+      "id": "gede4dsug",
+      "batchId": "svw09hzya",
+      "recipientName": "12",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Quick update for jobthon",
+      "body": "Hi 12,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:24:55.229Z"
+    },
+    {
+      "id": "pqkkzh8te",
+      "batchId": "svw09hzya",
+      "recipientName": "1111",
+      "recipientEmail": "somanishyam2006@gmail.com",
+      "subject": "Quick update for shyam",
+      "body": "Hi 1111,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:24:51.677Z"
+    },
+    {
+      "id": "dobbcbzq8",
+      "batchId": "nxbim5933",
+      "recipientName": "Ankit ",
+      "recipientEmail": "ankitmaheshwari14@gmail.com",
+      "subject": "Quick update for silver",
+      "body": "Hi Ankit ,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:23:27.165Z"
+    },
+    {
+      "id": "5o9a774d1",
+      "batchId": "nxbim5933",
+      "recipientName": "1111",
+      "recipientEmail": "somanishyam2006@gmail.com",
+      "subject": "Quick update for shyam",
+      "body": "Hi 1111,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-03T17:23:24.145Z"
+    },
+    {
+      "id": "jv07qvvsf",
+      "batchId": "60yocvfch",
+      "recipientName": "12",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Quick update for jobthon",
+      "body": "Hi 12,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-01T18:03:07.799Z"
+    },
+    {
+      "id": "5e7g9zdw9",
+      "batchId": "60yocvfch",
+      "recipientName": "1111",
+      "recipientEmail": "somanishyam2006@gmail.com",
+      "subject": "Quick update for shyam",
+      "body": "Hi 1111,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-01T18:03:04.411Z"
+    },
+    {
+      "id": "nagikfebl",
+      "batchId": "60yocvfch",
+      "recipientName": "DP-Mail",
+      "recipientEmail": "dawarka.dhuppar@gmail.com",
+      "subject": "Quick update for XYZ",
+      "body": "Hi DP-Mail,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-01T18:03:01.255Z"
+    },
+    {
+      "id": "j5u1fu5wd",
+      "batchId": "smbksew9d",
+      "recipientName": "1111",
+      "recipientEmail": "somanishyam2006@gmail.com",
+      "subject": "Quick update for shyam",
+      "body": "Hi 1111,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-01T18:00:52.506Z"
+    },
+    {
+      "id": "42dhzk30c",
+      "batchId": "smbksew9d",
+      "recipientName": "12",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Quick update for jobthon",
+      "body": "Hi 12,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-01T18:00:48.021Z"
+    },
+    {
+      "id": "k404n8sfn",
+      "batchId": "smbksew9d",
+      "recipientName": "Dp",
+      "recipientEmail": "dawarka.dhupper@gmail.com",
+      "subject": "Quick update for Dp",
+      "body": "Hi Dp,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-01T18:00:44.655Z"
+    },
+    {
+      "id": "a51tyhut1",
+      "batchId": "16hrg4uxd",
+      "recipientName": "Ankit ",
+      "recipientEmail": "ankitmaheshwari14@gmail.com",
+      "subject": "Quick update for silver",
+      "body": "Hi Ankit ,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-01T16:28:06.302Z"
+    },
+    {
+      "id": "hf1efxsu7",
+      "batchId": "16hrg4uxd",
+      "recipientName": "1111",
+      "recipientEmail": "somanishyam2006@gmail.com",
+      "subject": "Quick update for shyam",
+      "body": "Hi 1111,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-01T16:28:03.532Z"
+    },
+    {
+      "id": "4xtmqnf39",
+      "batchId": "16hrg4uxd",
+      "recipientName": "12",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Quick update for jobthon",
+      "body": "Hi 12,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-06-01T16:28:00.673Z"
+    },
+    {
+      "id": "hxvnhu0jb",
+      "batchId": "x4d79ym4g",
+      "recipientName": "1111",
+      "recipientEmail": "somanishyam2006@gmail.com",
+      "subject": "Quick update for shyam",
+      "body": "Hi 1111,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:46:01.699Z"
+    },
+    {
+      "id": "utcun2bsj",
+      "batchId": "x4d79ym4g",
+      "recipientName": "12",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Quick update for jobthon",
+      "body": "Hi 12,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:45:58.307Z"
+    },
+    {
+      "id": "iscfi7f7w",
+      "batchId": "pzy8g9igy",
+      "recipientName": "Anshul",
+      "recipientEmail": "anshul.somani@rupeek.com",
+      "subject": "Quick update how are you ",
+      "body": "kkrh",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:29:47.570Z"
+    },
+    {
+      "id": "hutk4qhh0",
+      "batchId": "pzy8g9igy",
+      "recipientName": "shyam",
+      "recipientEmail": "somanishyam2006@gmail.com",
+      "subject": "Quick update how are you ",
+      "body": "kkrh",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:29:44.734Z"
+    },
+    {
+      "id": "3ctnjaaya",
+      "batchId": "6e070f2li",
+      "recipientName": "Jobthin",
+      "recipientEmail": "jobthonplacement@gmail.com",
+      "subject": "Quick update",
+      "body": "Hi Jobthin,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "SMTP",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:27:40.411Z"
+    },
+    {
+      "id": "k4kyfskv3",
+      "batchId": "g38lx70z1",
+      "recipientName": "Alice Smith",
+      "recipientEmail": "anshulsomani735@gmail.com",
+      "subject": "Quick update",
+      "body": "Hi Alice Smith,\n\nHope you are doing well.\n\nBest regards,\nAnshul",
+      "mode": "Simulated",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:21:04.401Z"
+    },
+    {
+      "id": "iviljc2na",
+      "batchId": "v27c552ck",
+      "recipientName": "Alice Smith",
+      "recipientEmail": "anshulsomani735@gmail.com",
+      "subject": "Hi",
+      "body": "Hi my name is anshul ",
+      "mode": "Simulated",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:16:27.648Z"
+    },
+    {
+      "id": "yy9ipraa9",
+      "batchId": "bbmqezzth",
+      "recipientName": "Eva Davis",
+      "recipientEmail": "eva.davis@example.com",
+      "subject": "Quick follow-up regarding our product demo",
+      "body": "Hi Eva Davis,\n\nIt was great speaking with you today about how we can help Hooli Inc automate your workflow. I wanted to follow up and see if you had any questions regarding the pricing plans we discussed.\n\nLooking forward to hearing from you!\n\nBest regards,\nAnshul",
+      "mode": "Simulated",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:10:31.868Z"
+    },
+    {
+      "id": "qm3jblbdj",
+      "batchId": "bbmqezzth",
+      "recipientName": "David Brown",
+      "recipientEmail": "david.brown@example.com",
+      "subject": "Quick follow-up regarding our product demo",
+      "body": "Hi David Brown,\n\nIt was great speaking with you today about how we can help Umbrella Corp automate your workflow. I wanted to follow up and see if you had any questions regarding the pricing plans we discussed.\n\nLooking forward to hearing from you!\n\nBest regards,\nAnshul",
+      "mode": "Simulated",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:10:31.066Z"
+    },
+    {
+      "id": "ho3j8i6lu",
+      "batchId": "bbmqezzth",
+      "recipientName": "Carol Williams",
+      "recipientEmail": "carol.williams@example.com",
+      "subject": "Quick follow-up regarding our product demo",
+      "body": "Hi Carol Williams,\n\nIt was great speaking with you today about how we can help Initech Systems automate your workflow. I wanted to follow up and see if you had any questions regarding the pricing plans we discussed.\n\nLooking forward to hearing from you!\n\nBest regards,\nAnshul",
+      "mode": "Simulated",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:10:30.265Z"
+    },
+    {
+      "id": "fa16dcbqs",
+      "batchId": "bbmqezzth",
+      "recipientName": "Bob Johnson",
+      "recipientEmail": "bob.johnson@example.com",
+      "subject": "Quick follow-up regarding our product demo",
+      "body": "Hi Bob Johnson,\n\nIt was great speaking with you today about how we can help Globex Corp automate your workflow. I wanted to follow up and see if you had any questions regarding the pricing plans we discussed.\n\nLooking forward to hearing from you!\n\nBest regards,\nAnshul",
+      "mode": "Simulated",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:10:29.458Z"
+    },
+    {
+      "id": "o5i1bsobw",
+      "batchId": "bbmqezzth",
+      "recipientName": "Alice Smith",
+      "recipientEmail": "alice.smith@example.com",
+      "subject": "Quick follow-up regarding our product demo",
+      "body": "Hi Alice Smith,\n\nIt was great speaking with you today about how we can help Acme Corp automate your workflow. I wanted to follow up and see if you had any questions regarding the pricing plans we discussed.\n\nLooking forward to hearing from you!\n\nBest regards,\nAnshul",
+      "mode": "Simulated",
+      "status": "sent",
+      "sentAt": "2026-05-31T18:10:28.658Z"
+    },
+    {
+      "id": "h1",
+      "recipientName": "Alice Smith",
+      "recipientEmail": "alice.smith@example.com",
+      "subject": "Quick follow-up regarding our product demo",
+      "body": "Hi Alice Smith,\n\nIt was great speaking with you today about how we can help Acme Corp automate your workflow. I wanted to follow up and see if you had any questions regarding the pricing plans we discussed.\n\nLooking forward to hearing from you!\n\nBest regards,\nAnshul",
+      "sentAt": "2026-05-31T16:05:38.683Z",
+      "status": "sent",
+      "mode": "Simulated"
+    },
+    {
+      "id": "h2",
+      "recipientName": "Bob Johnson",
+      "recipientEmail": "bob.johnson@example.com",
+      "subject": "Friendly Reminder: Outstanding invoice for Globex Corp",
+      "body": "Hi Bob Johnson,\n\nHope you're doing well. This is a friendly reminder that the outstanding invoice for Globex Corp is due next week. Please let me know if you have any questions or need us to resend the secure payment link.\n\nThank you for your business!\n\nBest regards,\nAnshul",
+      "sentAt": "2026-05-31T17:05:38.683Z",
+      "status": "sent",
+      "mode": "Simulated"
+    }
+  ]
+}

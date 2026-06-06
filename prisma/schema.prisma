@@ -1,0 +1,51 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Recipient {
+  id        String   @id @default(uuid())
+  name      String
+  email     String   @unique
+  company   String?
+  tags      String?
+  createdAt DateTime @default(now())
+}
+
+model Template {
+  id        String   @id @default(uuid())
+  name      String
+  subject   String
+  body      String
+  createdAt DateTime @default(now())
+}
+
+model HistoryLog {
+  id             String    @id @default(uuid())
+  batchId        String
+  recipientEmail String
+  recipientName  String
+  subject        String
+  body           String
+  status         String    // 'sent', 'failed', 'sending', 'scheduled'
+  error          String?   
+  mode           String    // 'SMTP' or 'Simulated'
+  sentAt         DateTime?
+  scheduledFor   DateTime?
+}
+
+model Setting {
+  id            String  @id @default("1")
+  simulatedMode Boolean @default(true)
+  senderName    String?
+  senderEmail   String?
+  host          String?
+  port          String?
+  user          String?
+  pass          String?
+  secure        Boolean @default(true)
+}
