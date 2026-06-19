@@ -49,3 +49,9 @@ model Setting {
   pass          String?
   secure        Boolean @default(true)
 }
+
+model BankData {
+  id        String   @id @default("1")
+  jsonData  String   @default("{}")
+  updatedAt DateTime @updatedAt
+}

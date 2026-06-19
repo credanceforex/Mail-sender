@@ -13,7 +13,7 @@ import {
   LogOut,
   X
 } from 'lucide-react';
-import banksData from './banks_data.json';
+// banksData is now fetched dynamically from the database
 
 const generateTemplateBody = (type, count) => {
   if (type === 'buyer') {
@@ -60,6 +60,7 @@ export default function App() {
     simulatedMode: true // Sandbox simulator active by default
   });
   const [history, setHistory] = useState([]);
+  const [banksData, setBanksData] = useState({});
   const [isLoading, setIsLoading] = useState(true);
   const [alert, setAlert] = useState(null);
 
@@ -113,16 +114,18 @@ export default function App() {
   const fetchInitialData = async () => {
     setIsLoading(true);
     try {
-      const [recData, settsData, histData] = await Promise.all([
+      const [recData, settsData, histData, fetchedBanksData] = await Promise.all([
         fetch('/api/recipients').then(r => r.json()),
         fetch('/api/settings').then(r => r.json()),
-        fetch('/api/history').then(r => r.json())
+        fetch('/api/history').then(r => r.json()),
+        fetch('/api/banks').then(r => r.json())
       ]);
       setRecipients(recData || []);
       if (settsData) {
         setSettings(prev => ({ ...prev, ...settsData }));
       }
       setHistory(histData || []);
+      setBanksData(fetchedBanksData || {});
     } catch (e) {
       console.error(e);
       setAlert({ type: 'error', message: 'Failed to connect to backend server.' });
@@ -234,6 +237,35 @@ export default function App() {
     } catch (err) {
       triggerAlert('error', 'Error saving settings.');
     }
+  };
+
+  const handleImportBanks = (event) => {
+    const file = event.target.files[0];
+    if (!file) return;
+    
+    const reader = new FileReader();
+    reader.onload = async (e) => {
+      try {
+        const json = JSON.parse(e.target.result);
+        const res = await fetch('/api/banks/import', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(json)
+        }).then(r => r.json());
+        
+        if (res.success) {
+          setBanksData(json);
+          triggerAlert('success', 'Bank details imported successfully!');
+        } else {
+          triggerAlert('error', res.error || 'Failed to import bank details.');
+        }
+      } catch (err) {
+        triggerAlert('error', 'Invalid JSON file structure.');
+      }
+    };
+    reader.readAsText(file);
   };
 
   // Send Group Email
@@ -583,6 +615,27 @@ export default function App() {
                     </div>
                   </>
                 )}
+
+                <div style={{ marginTop: '1.25rem', paddingTop: '1rem', borderTop: '1px solid var(--border-light)', marginBottom: '1rem' }}>
+                  <h4 style={{ fontSize: '0.85rem', marginBottom: '0.5rem', color: 'var(--text-primary)', fontWeight: 600 }}>Import Bank Details (JSON)</h4>
+                  <input 
+                    type="file" 
+                    accept=".json"
+                    id="bank-file-upload"
+                    style={{ display: 'none' }}
+                    onChange={handleImportBanks}
+                  />
+                  <label 
+                    htmlFor="bank-file-upload" 
+                    className="btn btn-secondary btn-sm"
+                    style={{ display: 'inline-block', cursor: 'pointer', margin: 0 }}
+                  >
+                    Upload banks_data.json
+                  </label>
+                  <p style={{ fontSize: '0.7rem', color: 'var(--text-muted)', marginTop: '0.35rem', lineHeight: '1.3' }}>
+                    Upload a custom JSON file to update the bank branch contact list.
+                  </p>
+                </div>
 
                 <div style={{ display: 'flex', gap: '0.5rem', marginTop: '1rem' }}>
                   <button className="btn btn-primary btn-sm" onClick={handleSaveSettings}>Save Configuration</button>

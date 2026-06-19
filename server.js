@@ -4,6 +4,7 @@ import nodemailer from 'nodemailer';
 import pkg from '@prisma/client';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import fs from 'fs';
 
 const { PrismaClient } = pkg;
 
@@ -60,6 +61,34 @@ async function getSettings() {
     update: {},
     create: { id: "1" }
   });
+}
+
+// Get bank data from database or seed it from local file
+async function getBanksData() {
+  let bankRecord = await prisma.bankData.findUnique({ where: { id: "1" } });
+  if (!bankRecord) {
+    let initialJson = '{}';
+    try {
+      const filePath = path.join(__dirname, 'src', 'banks_data.json');
+      if (fs.existsSync(filePath)) {
+        initialJson = fs.readFileSync(filePath, 'utf8');
+      } else {
+        const rootFilePath = path.join(__dirname, 'banks_data.json');
+        if (fs.existsSync(rootFilePath)) {
+          initialJson = fs.readFileSync(rootFilePath, 'utf8');
+        }
+      }
+    } catch (e) {
+      console.error("Failed to load initial banks_data.json:", e);
+    }
+    bankRecord = await prisma.bankData.create({
+      data: {
+        id: "1",
+        jsonData: initialJson
+      }
+    });
+  }
+  return JSON.parse(bankRecord.jsonData);
 }
 
 // ----------------------------------------
@@ -151,6 +180,36 @@ app.delete('/api/templates/:id', async (req, res) => {
     res.json({ success: true });
   } catch (error) {
     res.status(404).json({ success: false, error: 'Template not found' });
+  }
+});
+
+
+// --- BANKS DATA MANAGEMENT ---
+app.get('/api/banks', async (req, res) => {
+  try {
+    const banks = await getBanksData();
+    res.json(banks);
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+app.post('/api/banks/import', async (req, res) => {
+  try {
+    const data = req.body;
+    if (typeof data !== 'object' || data === null) {
+      return res.status(400).json({ success: false, error: 'Invalid JSON data' });
+    }
+    
+    await prisma.bankData.upsert({
+      where: { id: "1" },
+      update: { jsonData: JSON.stringify(data) },
+      create: { id: "1", jsonData: JSON.stringify(data) }
+    });
+    
+    res.json({ success: true, message: 'Bank details imported successfully' });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
   }
 });
 
