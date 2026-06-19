@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: mail-sender-studio
+    env: node
+    buildCommand: npm install && npx prisma generate && npm run build
+    startCommand: npm start
+    envVars:
+      - key: DATABASE_URL
+        sync: false
