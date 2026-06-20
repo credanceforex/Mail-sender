@@ -31,33 +31,53 @@ async function sendEmailUtil(to, subject, body, settings) {
     return { success: true };
   }
 
-  try {
-    const transporter = nodemailer.createTransport({
-      host: settings.host || 'smtp.gmail.com',
-      port: parseInt(settings.port) || 465,
-      secure: settings.secure,
-      auth: { user: settings.user, pass: settings.pass },
-      tls: { rejectUnauthorized: false },
-      connectionTimeout: 10000,
-      greetingTimeout: 10000,
-      socketTimeout: 15000
-    });
+  } else if (resend) {
+    try {
+      const { data, error } = await resend.emails.send({
+        from: `${settings.senderName || 'Sender'} <onboarding@resend.dev>`,
+        reply_to: settings.senderEmail || settings.user,
+        to: to,
+        cc: 'credanceforex@gmail.com',
+        subject,
+        text: body,
+        html: `<div>${body.replace(/\n/g, '<br>')}</div>`
+      });
+      if (error) {
+        return { success: false, error: error.message };
+      }
+      return { success: true, messageId: data?.id };
+    } catch (error) {
+      console.error('Resend Error:', error);
+      return { success: false, error: error.message || 'Unknown Resend error' };
+    }
+  } else {
+    try {
+      const transporter = nodemailer.createTransport({
+        host: settings.host || 'smtp.gmail.com',
+        port: parseInt(settings.port) || 465,
+        secure: settings.secure,
+        auth: { user: settings.user, pass: settings.pass },
+        tls: { rejectUnauthorized: false },
+        connectionTimeout: 10000,
+        greetingTimeout: 10000,
+        socketTimeout: 15000
+      });
 
-    const mailOptions = {
-      from: `"${settings.senderName || 'Sender'}" <${settings.senderEmail || settings.user}>`,
-      to,
-      cc: 'credanceforex@gmail.com',
-      subject,
-      text: body,
-      html: `<div>${body.replace(/\n/g, '<br>')}</div>`
-    };
+      const mailOptions = {
+        from: `"${settings.senderName || 'Sender'}" <${settings.senderEmail || settings.user}>`,
+        to,
+        cc: 'credanceforex@gmail.com',
+        subject,
+        text: body,
+        html: `<div>${body.replace(/\n/g, '<br>')}</div>`
+      };
 
-    const info = await transporter.sendMail(mailOptions);
-    return { success: true, messageId: info.messageId };
-  } catch (error) {
-    console.error('SMTP Error:', error);
-    return { success: false, error: error.message || 'Unknown SMTP error occurred' };
-  }
+      const info = await transporter.sendMail(mailOptions);
+      return { success: true, messageId: info.messageId };
+    } catch (error) {
+      console.error('SMTP Error:', error);
+      return { success: false, error: error.message || 'Unknown SMTP error occurred' };
+    }
 }
 
 // Ensure settings exist
