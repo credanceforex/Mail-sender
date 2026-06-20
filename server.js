@@ -34,7 +34,10 @@ async function sendEmailUtil(to, subject, body, settings) {
       port: parseInt(settings.port) || 465,
       secure: settings.secure,
       auth: { user: settings.user, pass: settings.pass },
-      tls: { rejectUnauthorized: false }
+      tls: { rejectUnauthorized: false },
+      connectionTimeout: 10000,
+      greetingTimeout: 10000,
+      socketTimeout: 15000
     });
 
     const mailOptions = {
@@ -278,7 +281,10 @@ app.post('/api/send_group', async (req, res) => {
         port: parseInt(settings.port) || 465,
         secure: settings.secure,
         auth: { user: settings.user, pass: settings.pass },
-        tls: { rejectUnauthorized: false }
+        tls: { rejectUnauthorized: false },
+        connectionTimeout: 10000,
+        greetingTimeout: 10000,
+        socketTimeout: 15000
       });
 
       const mailOptions = {
