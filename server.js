@@ -1,10 +1,13 @@
 import express from 'express';
 import cors from 'cors';
 import nodemailer from 'nodemailer';
+import { Resend } from 'resend';
 import pkg from '@prisma/client';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import fs from 'fs';
+
+const resend = process.env.RESEND_API_KEY ? new Resend(process.env.RESEND_API_KEY) : null;
 
 const { PrismaClient } = pkg;
 
@@ -274,7 +277,27 @@ app.post('/api/send_group', async (req, res) => {
   if (settings.simulatedMode) {
     await new Promise(resolve => setTimeout(resolve, 800));
     result = { success: true };
+  } else if (resend) {
+    // Use Resend HTTP API (works on Render, no SMTP ports needed)
+    try {
+      const { data, error } = await resend.emails.send({
+        from: `${settings.senderName || 'Sender'} <${settings.senderEmail || 'onboarding@resend.dev'}>`,
+        to: toEmails,
+        cc: ccStr ? ['credanceforex@gmail.com', ...ccEmails] : ['credanceforex@gmail.com'],
+        subject: customSubject,
+        text: customBody,
+        html: `<div>${customBody.replace(/\n/g, '<br>')}</div>`
+      });
+      if (error) {
+        result = { success: false, error: error.message };
+      } else {
+        result = { success: true, messageId: data?.id };
+      }
+    } catch (error) {
+      result = { success: false, error: error.message };
+    }
   } else {
+    // Fallback to SMTP (works locally)
     try {
       const transporter = nodemailer.createTransport({
         host: settings.host || 'smtp.gmail.com',
@@ -289,8 +312,8 @@ app.post('/api/send_group', async (req, res) => {
 
       const mailOptions = {
         from: `"${settings.senderName || 'Sender'}" <${settings.senderEmail || settings.user}>`,
-        to: settings.senderEmail || settings.user, // Send to self as anchor
-        bcc: toStr, // Blind CC all recipients for privacy
+        to: settings.senderEmail || settings.user,
+        bcc: toStr,
         cc: ccStr ? `credanceforex@gmail.com, ${ccStr}` : 'credanceforex@gmail.com',
         subject: customSubject,
         text: customBody,
