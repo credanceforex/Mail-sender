@@ -281,7 +281,8 @@ app.post('/api/send_group', async (req, res) => {
     // Use Resend HTTP API (works on Render, no SMTP ports needed)
     try {
       const { data, error } = await resend.emails.send({
-        from: `${settings.senderName || 'Sender'} <${settings.senderEmail || 'onboarding@resend.dev'}>`,
+        from: `${settings.senderName || 'Sender'} <onboarding@resend.dev>`,
+        reply_to: settings.senderEmail || settings.user,
         to: toEmails,
         cc: ccStr ? ['credanceforex@gmail.com', ...ccEmails] : ['credanceforex@gmail.com'],
         subject: customSubject,
