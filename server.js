@@ -332,6 +332,11 @@ app.get('*all', (req, res) => {
 
 // Start Server
 app.listen(PORT, async () => {
-  await getSettings(); // Init settings
-  console.log(`[Express] Core services online at http://localhost:${PORT}`);
+  try {
+    await getSettings(); // Init settings
+    console.log(`[Express] Core services online at http://localhost:${PORT}`);
+  } catch (err) {
+    console.warn(`[Express] Server started on http://localhost:${PORT} but database connection failed: ${err.message}`);
+    console.warn('[Express] The server will retry database connections on incoming requests.');
+  }
 });
