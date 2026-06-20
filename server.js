@@ -323,10 +323,10 @@ app.post('/api/history/clear', async (req, res) => {
 });
 
 // Serve static assets from the React build folder (dist)
-app.use(express.static(path.join(__dirname, 'dist')));
+app.use(express.static(path.join(__dirname, 'dist'), { index: 'index.html' }));
 
-// Catch-all route to serve React's index.html for any non-API routes
-app.get('*all', (req, res) => {
+// Fallback: serve React's index.html for any non-API routes (SPA routing)
+app.use((req, res) => {
   res.sendFile(path.join(__dirname, 'dist', 'index.html'));
 });
 
